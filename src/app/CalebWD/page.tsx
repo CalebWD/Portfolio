@@ -1,4 +1,4 @@
-export default function Home() {
+export default function CalebWD() {
   return (
     <div className="fixed inset-0 bg-[#030303] overflow-hidden">
       {/* Background image overlay */}
@@ -26,10 +26,6 @@ export default function Home() {
           <div className="h-[38px] flex items-center gap-2 bg-[#11101b] border-[4px] border-[#1a182d] rounded-xl px-3">
             <a href="/CalebWD" className="text-gray-500 hover:text-gray-300 transition-colors font-['Courier_New'] text-sm">
               CalebWD
-            </a>
-            <span className="text-gray-500 font-['Courier_New']">/</span>
-            <a href="/CalebWD/ProjectPO" className="text-gray-500 hover:text-gray-300 transition-colors font-['Courier_New'] text-sm">
-              ProjectPO
             </a>
           </div>
         </nav>
