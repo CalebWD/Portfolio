@@ -1,4 +1,5 @@
-# Portfolio Website
+<div align="center">
+<h1>Caleb's Portfolio Website</h1>
 <div align="center">
 <img src="landing page mockup professional v5.png" width="1000" />
   <h6 style="color: #8f8f8f; font-size: 0.75em;">*This is just a mockup and does not reflect current project quality yet*</h6>
