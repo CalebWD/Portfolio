@@ -47,10 +47,10 @@ Comprehensive documentation is available in the `docs` directory:
 ## 🎯 Project Goals
 
 - Create a clean, modern portfolio website
-- Showcase projects and creative processes
+- Showcase projects, mock ups, desings, and creative processes
 - Share insights through blog posts
 - Maintain high performance and accessibility
-- Provide a well-documented, open-source solution
+- Provide a well-documented, open-source "template" if you will
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +63,7 @@ Comprehensive documentation is available in the `docs` directory:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read our [Contributing Guide](docs/development/git-workflow.md) for details on our code of conduct and the process for submitting pull requests.
+Contributions are welcome! Please read our [Contributing Guide](docs/development/git-workflow.md) ~~not a thing yet~~ for details on our code of conduct and the process for submitting pull requests.
 
 ## 📝 License
 
@@ -71,20 +71,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Next.js team for the amazing framework
-- Tailwind CSS team for the utility-first CSS framework
-- Open source community for various tools and inspiration
+- Next.js team for the baller framework
+- Tailwind CSS team for the utility-first CSS framework ~~though I don't enjoy it~~
+- Open source community and graphic design for various tools and massive inspiration
 
 ## 🔮 Future Plans
 
-- Add 3D elements and animations
+- Add 3D elements and animations, maybe a 3D show off section.
 - Implement real-time components
-- Create custom file gallery system
-- Add more interactive elements
-- Expand blog functionality
+- Create custom file gallery system synced live from a local computer (mostly because lazy)
+- Add more interactive elements and attention grabbers
+- Expand blog functionality, possibly using tags?
 
 ## ⚡ Performance
 
+All of this is TBD, duh
 - Lighthouse score: TBD
 - Core Web Vitals: TBD
 - Load time: TBD
